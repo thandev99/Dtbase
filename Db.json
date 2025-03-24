@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "phone": "6281234567890",
+      "username": "Skyzopedia",
+      "password": "mypassword123",
+      "pin": "1234",
+      "key": "secure-key-xyz"
+    }
+  ]
+}
