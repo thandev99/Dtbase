@@ -62,6 +62,13 @@
       "password": "nia911",
       "pin": "2323",
       "key": "asistenku"
+    },
+    {
+      "phone": "6281995656840",
+      "username": "fanzbot",
+      "password": "fanzganteng",
+      "pin": "2025",
+      "key": "fanzganteng"
     }
   ]
 }
