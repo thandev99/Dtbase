@@ -76,6 +76,13 @@
       "password": "kei123",
       "pin": "123",
       "key": "kei"
+    },
+    {
+      "phone": "6289503231668",
+      "username": "ikyy",
+      "password": "ikyybot",
+      "pin": "ganteng",
+      "key": "777"
     }
   ]
 }
