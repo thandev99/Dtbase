@@ -8,6 +8,13 @@
       "key": "thanganteng"
     },
     {
+      "phone": "6285800616087",
+      "username": "than2",
+      "password": "escannor",
+      "pin": "123",
+      "key": "funancheng"
+    },
+    {
       "phone": "6285247743180",
       "username": "Ahmad",
       "password": "Ahmad123",
@@ -76,6 +83,20 @@
       "password": "ikyybot",
       "pin": "ganteng",
       "key": "777"
+    },
+    {
+      "phone": "6285800616087",
+      "username": "gaara",
+      "password": "temari",
+      "pin": "1234",
+      "key": "temariluplup"
+    },
+    {
+      "phone": "6282162542031",
+      "username": "kontol",
+      "password": "kontol",
+      "pin": "4444",
+      "key": "kontol"
     }
   ]
 }
